@@ -1,0 +1,1 @@
+parse --url=https://www.vakkorama.com.tr/register/ --modalBody=.contract --container=.corparate__content --title=strong --desc=p

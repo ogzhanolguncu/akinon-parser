@@ -1,5 +1,5 @@
 {
-  "name": "parser",
+  "name": "akinon-parser",
   "version": "1.0.0",
   "description": "",
   "main": "./lib/parser.js",
