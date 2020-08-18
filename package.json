@@ -1,6 +1,6 @@
 {
   "name": "akinon-parser",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Parser developed for akinon.",
   "main": "./lib/parser.js",
   "bin": {
