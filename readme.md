@@ -8,9 +8,9 @@ parse --url=https://www.vakkorama.com.tr/register/ --modalBody=.contract --conta
 Use the package manager [npm](https://pip.pypa.io/en/stable/) or [yarn](https://yarnpkg.com/) to install akinon-parser.
 
 ```bash
-npm i akinon-parser 
+npm i -g akinon-parser 
 
-yarn add akinon-parser
+yarn global add akinon-parser
 
 
 ## Contributing
