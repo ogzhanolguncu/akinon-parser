@@ -1,15 +1,22 @@
 {
   "name": "akinon-parser",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Parser developed for akinon.",
   "main": "./lib/parser.js",
   "bin": {
     "parse": "./bin/index.js"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "scripts": {},
+  "author": {
+    "name": "Oğuzhan Olguncu",
+    "email": "oguzhan.olguncu@akinon.com"
   },
-  "author": "",
+  "contributors": [
+    {
+      "name": "Hakan Özkaptan",
+      "email": "hakan.ozkaptan@akinon.com"
+    }
+  ],
   "license": "ISC",
   "dependencies": {
     "minimist": "^1.2.5",
